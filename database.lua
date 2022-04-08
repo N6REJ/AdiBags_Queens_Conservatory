@@ -7,40 +7,40 @@ local addonName, addonTable, addon = ...
 -- Create addon table
 local db = { }
 
-db.name = "Shadowlands Fishing"
-db.desc = "Fish and Bait found while fishing in shadowlands"
+db.name = "Queens Conservatory"
+db.desc = "Seeds & Catalyst Plots used by the Night Fae in the Queens Conservatory"
 
 -- Filter info
 db.Filters = {
-	["Fish"] = {
-		uiName = "Shadowlands Fish",
-		uiDesc = "Fish found while fishing in Shadowlands",
-		title = "Fish",
+	["Seeds"] = {
+		uiName = "Queens Conservatory Seeds",
+		uiDesc = "Seeds used by Night Fae in the Queens Conservatory",
+		title = "Seeds",
 		items = {
 			-- ID,	--Item name
-			[173032] = true,	-- Lost Sole
-			[173033] = true,	-- Iridescent Amberjack
-			[173034] = true,	-- Silvergill Pike
-			[173035] = true,	-- Pocked Bonefish
-			[173036] = true,	-- Spinefin Piranha
-			[173037] = true,	-- Elysian Thade
-			[174327] = true,	-- Malformed Gnasher
-			[187702] = true -- Precurser Placoderm
+			[178881] = true,	-- Dutiful Spirit
+			[178880] = true,	-- Greater Dutiful Spirit
+			[178879] = true,	-- Divine Dutiful Spirit
+			[178874] = true,	-- Martial Spirit
+			[178877] = true, 	-- Greater Martial Spirit
+			[178878] = true, 	-- Divine Martial Spirit
+			[177698] = true, 	-- Untamed Spirit
+			[177699] = true, 	-- Greater Untamed Spirit
+			[177700] = true, 	-- Divine Untamed Spirit
+			[178882] = true, 	-- Prideful Spirit
+			[178883] = true, 	-- Greater Prideful Spirit
+			[178884] = true		-- Divine Prideful Spirit
 		},
 	},
-	["Bait"] = {
-		uiName = "Shadowlands Bait",
-		uiDesc = "Bait found while fishing in Shadowlands",
-		title = "Bait",
+	["Catalyst"] = {
+		uiName = "Queens Conservatory Catalyst",
+		uiDesc = "Catalyst Plots used by Night Fae in the Queens Conservatory",
+		title = "Catalyst",
 		items = {
 			-- ID,	--Item name
-		   [173038] = true,	-- Lose Sole bait
-		   [173039] = true,	-- Iridescent amberjack bait
-		   [173040] = true,	-- Silvergill pike bait
-		   [173041] = true,	-- Pocked Bonefish bait
-		   [173042] = true,	-- Spinefin piranha bait
-		   [173043] = true,	-- Elysian thade bait
-		   [187712] = true -- Precursor Placoderm Bait
+		   [176832] = true,	-- Wildseed root
+		   [176922] = true, -- Wild Nightbloom
+		   [176921] = true	-- Temporal Leaves
 	   },
 	},
 }
