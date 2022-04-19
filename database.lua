@@ -32,10 +32,10 @@ db.Filters = {
 			[178884] = true		-- Divine Prideful Spirit
 		},
 	},
-	["Catalyst"] = {
+	["Plots"] = {
 		uiName = "Queens Conservatory Catalyst",
 		uiDesc = "Catalyst Plots used by Night Fae in the Queens Conservatory",
-		title = "Catalyst",
+		title = "Catalyst Plots",
 		items = {
 			-- ID,	--Item name
 		   [176832] = true,	-- Wildseed root
