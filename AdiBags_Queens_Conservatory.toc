@@ -1,9 +1,9 @@
 ## Interface: 90200
-## Title: AdiBags - Shadowlands Fishing
+## Title: AdiBags - Queens Conservatory
 ## Version: @project-version@
 ## Author: Bearesquishy
 ## X-License: MIT
-## X-Curse-Project-ID: 446518
+## X-Curse-Project-ID: 606793
 ## DefaultState: enabled
 ## Dependancies: AdiBags
 
