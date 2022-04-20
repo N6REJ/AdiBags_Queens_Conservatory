@@ -35,7 +35,7 @@ db.Filters = {
 	["Plots"] = {
 		uiName = "Queens Conservatory Catalyst",
 		uiDesc = "Catalyst Plots used by Night Fae in the Queens Conservatory",
-		title = "Catalyst Plots",
+		title = "Plots",
 		items = {
 			-- ID,	--Item name
 		   [176832] = true,	-- Wildseed root
