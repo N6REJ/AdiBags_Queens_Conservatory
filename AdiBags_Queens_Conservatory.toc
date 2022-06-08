@@ -4,6 +4,7 @@
 ## Author: Bearesquishy
 ## X-License: MIT
 ## X-Curse-Project-ID: 606793
+## X-Wago-ID: Mj6j7OKR
 ## DefaultState: enabled
 ## Dependancies: AdiBags
 
