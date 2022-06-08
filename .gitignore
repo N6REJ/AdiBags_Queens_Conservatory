@@ -4,7 +4,7 @@
 .vscode
 
 # BigWigs packager
-.release
+.packager
 /packager
 
 # Compiled Lua sources
