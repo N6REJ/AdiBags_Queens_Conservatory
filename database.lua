@@ -29,7 +29,8 @@ db.Filters = {
 			[177700] = true, 	-- Divine Untamed Spirit
 			[178882] = true, 	-- Prideful Spirit
 			[178883] = true, 	-- Greater Prideful Spirit
-			[178884] = true		-- Divine Prideful Spirit
+			[178884] = true,	-- Divine Prideful Spirit
+			[183805] = true		-- Tranquil Spirit of the Cosmos
 		},
 	},
 	["Plots"] = {
@@ -40,7 +41,8 @@ db.Filters = {
 			-- ID,	--Item name
 		   [176832] = true,	-- Wildseed root
 		   [176922] = true, -- Wild Nightbloom
-		   [176921] = true	-- Temporal Leaves
+		   [176921] = true,	-- Temporal Leaves
+		   [183522] = true	-- Wildseed Root Grain Seeds
 	   },
 	},
 }
