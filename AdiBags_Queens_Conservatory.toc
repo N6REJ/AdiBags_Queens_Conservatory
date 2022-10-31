@@ -1,4 +1,4 @@
-## Interface: 90205
+## Interface: 100000
 ## Title: AdiBags - Queens Conservatory
 ## Version: @project-version@
 ## Author: Bearesquishy
@@ -8,5 +8,6 @@
 ## DefaultState: enabled
 ## Dependancies: AdiBags
 
+locales.lua
 database.lua
 core.lua
