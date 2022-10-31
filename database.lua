@@ -1,13 +1,14 @@
--- AdiBags_Queens_Conservatory - Database
+-- AdiBags Queens Conservatory - Database
 -- Created by N6REJ character is Bearesquishy - dalaran please credit whenever.
 -- Source on GitHub: https://n6rej.github.io
 ---@type
 ---
 local addonName, addonTable = ...;
 
--- Get locals namse
+-- Get locales name
 local L = addonTable.locales;
 local Expansion = L["Shadowlands"]
+
 -- Create addon table
 local db = { }
 
