@@ -1,4 +1,4 @@
-# Adibags Queens Conservatory
+# AdiBags Queens Conservatory
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Size](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Queens_Conservatory) 
 [![Build Curse Release](https://github.com/N6REJ/AdiBags_Queens_Conservatory/actions/workflows/release.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Queens_Conservatory/actions/workflows/release.yml) 
